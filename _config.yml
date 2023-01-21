@@ -35,18 +35,18 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: https://twitter.com/HsuanLee10
+twitter: 'https://twitter.com/HsuanLee10'
 # instagram: myinstagram
 # linkedin: mylinkedin
-github: https://github.com/HsuanLee01
-email: h.lee@uu.nl
+github: 'https://github.com/HsuanLee01'
+email: 'h.lee@uu.nl'
 
 authors:
   HsuanLee:
     name: Hsuan Lee
     bio: I am a student of Methodology and Statistics at Utrecht University.
     external-image: false
-    picture: assets/images/Profile_Photo_3.jpg
+    picture: assets/images/Profile_Photo.jpg
     twitter: HsuanLee10
   #jamesfoster:
     #name: James Foster
