@@ -4,11 +4,11 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi 👋
+<p> Hi 👋 </p>
 
-My name is Hsuan Lee! No worries, it's pronounced Shu-an! 😉
+<p> My name is Hsuan Lee! No worries, it's pronounced Shu-an! 😉 </p>
 
-I am working on a project...</p>
+<p> I am working on a project...</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
