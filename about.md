@@ -4,11 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p> Hi 👋 </p>
-
-<p> My name is Hsuan Lee! No worries, it's pronounced Shu-an! 😉 </p>
-
-<p> I am working on a project...</p>
+<p> Hi~ My name is Hsuan Lee! No worries, it's pronounced Shu-an! I'm a second year Master's student in Methodology and Statistics doing data science track at Utrecht University. My research interests are mainly focused on Network Analysis, Changepoint Detection and Bayesian Statistics, or more precisely, anything related to statistics attracts me.</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
