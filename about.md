@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p> Hi~ My name is Hsuan Lee! No worries, it's pronounced Shu-an! I'm a second year Master's student in [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) at [Utrecht University](https://uu.nl/en) doing data science track at Utrecht University. My research interests are mainly focused on Network Analysis, Changepoint Detection and Bayesian Statistics, or more precisely, anything related to statistics attracts me.</p>
+<p> Hi~ My name is Hsuan Lee! No worries, it's pronounced Shu-an! I'm a second year Master's student in [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics){:target="_blank" rel="noopener"}  at [Utrecht University](https://uu.nl/en){:target="_blank" rel="noopener"}  doing data science track at Utrecht University. My research interests are mainly focused on Network Analysis, Changepoint Detection and Bayesian Statistics, or more precisely, anything related to statistics attracts me.</p>
 
 <p></p>
 
