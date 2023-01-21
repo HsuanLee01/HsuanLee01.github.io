@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/Profile_Photo_3.jpg
+picture: assets/images/Profile_Photo.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -29,17 +29,17 @@ permalink: /:title/
 # analytics-google: 'UA-MYANALYTICS'
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+#disqus:
+  #shortname: github # enter this from your disqus account
+  #categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: 'https://twitter.com/HsuanLee10'
+twitter: HsuanLee10
 # instagram: myinstagram
 # linkedin: mylinkedin
-github: 'https://github.com/HsuanLee01'
-email: 'h.lee@uu.nl'
+github: HsuanLee01
+email: h.lee@uu.nl
 
 authors:
   HsuanLee:
