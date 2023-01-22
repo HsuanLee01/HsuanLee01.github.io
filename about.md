@@ -14,7 +14,7 @@ The project I am currently working on aims to provide an approach for inferring 
 	<li> R </li>
 	<li> Python (learning) </li>
 	<li> Mplus </li>
-    <li>  SPSS </li>
+    <li> SPSS </li>
 	<li> JASP</li>
 	<li> JAGS</li>
 	<li> Latex </li>
