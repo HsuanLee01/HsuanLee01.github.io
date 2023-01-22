@@ -25,5 +25,7 @@ The project I am currently working on aims to provide an approach for inferring 
 <h2>Contact</h2>
 
 <ul>
-	<li><a href="h.lee@uu.nl">Hsuan Lee</a></li>
+	<li><a href="https://github.com/HsuanLee01">GitHub</a></li>
+	<li><a href="https://twitter.com/HsuanLee10">Twitter</a></li>
+	<li><a href="h.lee@uu.nl">email</a></li>
 </ul>
