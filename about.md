@@ -11,23 +11,19 @@ The project I am currently working on aims to provide an approach for inferring 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li> R </li>
+	<li> Python (learning) </li>
+	<li> Mplus </li>
+    <li>  SPSS </li>
+	<li> JASP</li>
+	<li> JAGS</li>
+	<li> Latex </li>
+	<li> Zotero </li>
+	<li> GitHub </li>
 </ul>
 
 <h2>Contact</h2>
 
 <ul>
-	<li><a href="https://github.com/HsuanLee01">Hsuan Lee</a></li>
+	<li><a href="h.lee@uu.nl">Hsuan Lee</a></li>
 </ul>
