@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-Hi~ My name is Hsuan Lee! No worries, it's pronounced Shu-an! I'm a second year master student in [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics){:target="_blank" rel="noopener"} at [Utrecht University](https://uu.nl/en){:target="_blank" rel="noopener"}, doing the data science track. My research interests are mainly focused on Network Analysis, Changepoint Detection and Bayesian Statistics, or more precisely, anything related to statistics attracts me.
+Hi~ My name is Hsuan Lee! No worries, it's pronounced Shu-an! I'm a second year master student in [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics){:target="_blank" rel="noopener"} at [Utrecht University](https://uu.nl/en){:target="_blank" rel="noopener"}, doing the data science track. My research interests are mainly focused on Network Analysis, Changepoint Detection and Bayesian Statistics, However, anything related to statistics attracts me.
 
 The project I am currently working on aims to provide an approach for inferring changepoints in social networks. To this end, I introduce, compare and evaluate the feasibility of applying several changepoint detection methods in the Relational Event History data (i.e. a type of social network data) framework.
 
