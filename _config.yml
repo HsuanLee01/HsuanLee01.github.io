@@ -1,6 +1,6 @@
 # main text of home
 title: Hsuan Lee
-bio: Hi, I am a master student of Methodology and Statistics at Utrecht University.
+bio: Hi, I am a graduate with an MSc in Methodology and Statistics from Utrecht University.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -37,14 +37,14 @@ permalink: /:title/
 # facebook: myfacebook
 twitter: HsuanLee10
 # instagram: myinstagram
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/hsuan-lee-89a870225/
 github: HsuanLee01
-email: h.lee@uu.nl
+email: hsuan.lee1@gmail.com
 
 authors:
   HsuanLee:
     name: Hsuan Lee
-    bio: I am a student of Methodology and Statistics at Utrecht University.
+    bio: I am a graduate with an MSc in Methodology and Statistics from Utrecht University.
     external-image: false
     picture: assets/images/Profile_Photo_1.jpg
     twitter: HsuanLee10
