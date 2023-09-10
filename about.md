@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-Hi~ My name is Hsuan Lee! No worries, it's pronounced Shu-an! I graduated with an MSc in [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics){:target="_blank" rel="noopener"} from [Utrecht University](https://uu.nl/en){:target="_blank" rel="noopener"}, specializing in the data science track. My research interests primarily revolve around Data Science, Network Analysis, Changepoint Detection, and Bayesian Statistics. However, I'm also drawn to any topics related to statistics."
+Hi~ My name is Hsuan Lee! No worries, it's pronounced Shu-an! I graduated with an MSc in [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics){:target="_blank" rel="noopener"} from [Utrecht University](https://uu.nl/en){:target="_blank" rel="noopener"}, specializing in the data science track. My research interests primarily revolve around Data Science, Network Analysis, Changepoint Detection, and Bayesian Statistics. However, I'm also drawn to any topics related to statistics.
 
 <h2>Skills</h2>
 
